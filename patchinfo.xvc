@@ -19,8 +19,8 @@ Character\Monster\Ani\LUNKER_WARWALK_01_00.ANI e8725e17004d244cb9351f4bb027b2fd7
 Character\Player\Ani\BELMALE_COMBAT_STAND_NONE_NONE_01_00.ANI 88e8bbd1de3d050aab60b25611c802e6fc5d740c
 Character\Player\Ani\BELMALE_PEACE_STAND_NONE_NONE_01_00.ANI b87df4f687991824a0439b3357a02b2ef57e04d7
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
-DataTable\en-gb\discord.ini abe02b8441864b54505a1e36679e4464b91cc454
-DataTable\en-gb\HVNLanguage.ini 59cd1bd1b850c0c9abd69f57b94dd758bfcfa118
+DataTable\en-gb\discord.ini ae56c946c1f0faee08cf785d30509ac4b5665ee2
+DataTable\en-gb\HVNLanguage.ini d09aad5353a8367966ab4662c07f3a004f5b142b
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap.dat 0086704de9731151bda2b137e0a5650941c3fe8a
 DataTable\en-gb\KeyMap_NKM.dat 29e3153b35a39cbaac01f55bebcd01ba761de4cc
@@ -48,4 +48,5 @@ SpriteImage\common\battlepass.spr 8503093e1fb87a93f0acc40c8a427878c3586575
 SpriteImage\common\guildskill.spr 16a2187025674a41974373b4f464b36495a6d137
 SpriteImage\common\hvn.spr 73e6d2fe11542e24bc27d4ac935ff53f6099fca7
 SpriteImage\common\shop.spr 99501b336252185b06c08de29d716e88d9157b97
+SpriteImage\launcher.png 04bf4ca2f2e0ab85b4a7d8a96a8bdd08ebd54774
 System\lucon.ttf 3a21f868544500c690f8ac04dc6b05a7dfe94637
