@@ -2873,7 +2873,7 @@ Chef\Xmas_events\spkl\MainMaterial.mst 93e1b006583903903f51c0ea05230ea03d144b2c
 Chef\Xmas_events\spkl\sparkle03.dds 48c855899f69fe13bfbc8d90824fb2ae484d2d43
 Chef\Xmas_events\spkl\spkl.R3E 9c61363bc0b65fb2d0274f3bc6052a628751e4c9
 Chef\Xmas_events\Xmas_events_p.spt 2e2510e4212e9708981f234c1d7acd2bbac4ee18
-DataTable\Character.edf 7c435a621fa976740ebf95743b62081ffc6d7f0a
+DataTable\Character.edf 272380ab70a15a6f3721f14aa667e8c0a2dff983
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
 DataTable\en-gb\ChatCommand.ini 96288fa1f07ea193a4dc39b7e8980260e6c4e2e9
 DataTable\en-gb\discord.ini ae56c946c1f0faee08cf785d30509ac4b5665ee2
@@ -2882,11 +2882,11 @@ DataTable\en-gb\HVNLanguage.ini 9ff0e772ace2706679f7e65cc5a61fb20801ff2a
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap.dat 0086704de9731151bda2b137e0a5650941c3fe8a
 DataTable\en-gb\KeyMap_NKM.dat 29e3153b35a39cbaac01f55bebcd01ba761de4cc
-DataTable\en-gb\NDCharacter.edf f8e230b43ee673bc315f100dafae7a50faae61e9
+DataTable\en-gb\NDCharacter.edf 2d6053b9a29853246fcc5c1ace50561cae1fd282
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
 DataTable\en-gb\NDItem.edf 328fb0ee6b431f80e8083f7d9e1c7a480be60181
 DataTable\en-gb\NDItemCash.edf 7dadc678390005311948b404e477c45641c8f2c5
-DataTable\en-gb\NDLanguage.edf d0fe13751868e01cab3bf960b9b7c830ccd6d8e2
+DataTable\en-gb\NDLanguage.edf b8bacb407e16f37b04191d00b06ac44005b8602a
 DataTable\en-gb\NDMap.edf 252de8a4939d658ebab268f232bfd583d34b775d
 DataTable\en-gb\NDMsgEvent.edf 81256bb91c89dc95a92beb5df2f33c6a3ab48c5b
 DataTable\en-gb\NDMsgMonster.edf c0b5de67414034b412c86966e5ba2f6e9af6ec7d
